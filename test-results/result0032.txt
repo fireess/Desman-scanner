@@ -1,0 +1,14 @@
+[line: 3, pos: 13]--[line: 3, pos: 40] lexeme: Float64 +4.56789123456789234500e-08
+[line: 3, pos: 52]--[line: 3, pos: 62] lexeme: Float64 +3.45678000000000000000e+35
+[line: 6, pos: 9]--[line: 6, pos: 24] lexeme: Complex64 +5.14159265300000000000e+08i
+[line: 6, pos: 27]--[line: 6, pos: 44] lexeme: Float32 +6.14159265314800000000e+08
+[line: 9, pos: 13]--[line: 9, pos: 28] lexeme: Float128 +3.14159265300000000000e-78
+[line: 9, pos: 31]--[line: 9, pos: 50] lexeme: Complex128 +9.14159265356000000000e-78i
+[line: 9, pos: 52]--[line: 9, pos: 67] lexeme: Float64 +2.14159265300000000000e+11
+[line: 12, pos: 7]--[line: 12, pos: 30] lexeme: Complex64 +7.14159265371828180000e-08i
+[line: 12, pos: 35]--[line: 12, pos: 54] lexeme: Complex32 +6.14159265314800000000e+08i
+[line: 15, pos: 11]--[line: 15, pos: 31] lexeme: Float80 +6.18281828459045000000e-05
+[line: 15, pos: 36]--[line: 15, pos: 57] lexeme: Complex80 +6.18281828459045000000e-05i
+[line: 15, pos: 58]--[line: 15, pos: 58] lexeme: Nothing
+
+Total errors 0

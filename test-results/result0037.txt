@@ -1,0 +1,6 @@
+[line: 2, pos: 4]--[line: 2, pos: 6] lexeme: Char 'А'
+[line: 2, pos: 9]--[line: 2, pos: 11] lexeme: Char 'Б'
+[line: 2, pos: 14]--[line: 2, pos: 16] lexeme: Char 'В'
+[line: 2, pos: 17]--[line: 2, pos: 17] lexeme: Nothing
+
+Total errors 0

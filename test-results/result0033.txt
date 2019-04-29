@@ -1,0 +1,4 @@
+[line: 2, pos: 11]--[line: 2, pos: 34] lexeme: Float64 +3.14159265358979323846e+00
+[line: 2, pos: 35]--[line: 2, pos: 35] lexeme: Nothing
+
+Total errors 0

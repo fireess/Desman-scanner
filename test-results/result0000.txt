@@ -1,0 +1,67 @@
+[line: 1, pos: 1]--[line: 1, pos: 5] lexeme: Kw_bezzn
+[line: 1, pos: 13]--[line: 1, pos: 18] lexeme: Kw_bezzn8
+[line: 2, pos: 8]--[line: 2, pos: 14] lexeme: Kw_bezzn16
+[line: 4, pos: 5]--[line: 4, pos: 11] lexeme: Kw_bezzn32
+[line: 4, pos: 15]--[line: 4, pos: 21] lexeme: Kw_bezzn64
+[line: 4, pos: 24]--[line: 4, pos: 31] lexeme: Kw_bezzn128
+[line: 9, pos: 9]--[line: 9, pos: 12] lexeme: Kw_esli
+[line: 9, pos: 17]--[line: 9, pos: 20] lexeme: Kw_ines
+[line: 9, pos: 25]--[line: 9, pos: 30] lexeme: Kw_istina
+[line: 9, pos: 34]--[line: 9, pos: 38] lexeme: Kw_inache
+[line: 12, pos: 5]--[line: 12, pos: 13] lexeme: Kw_vydelenie
+[line: 12, pos: 15]--[line: 12, pos: 17] lexeme: Kw_dlya
+[line: 12, pos: 22]--[line: 12, pos: 29] lexeme: Kw_golovnaya
+[line: 12, pos: 35]--[line: 12, pos: 39] lexeme: Kw_vyjdi
+[line: 15, pos: 9]--[line: 15, pos: 14] lexeme: Kw_tsel128
+[line: 15, pos: 19]--[line: 15, pos: 23] lexeme: Kw_tsel32
+[line: 15, pos: 28]--[line: 15, pos: 32] lexeme: Kw_tsel16
+[line: 15, pos: 36]--[line: 15, pos: 38] lexeme: Kw_tsel
+[line: 15, pos: 41]--[line: 15, pos: 44] lexeme: Kw_tsel8
+[line: 16, pos: 17]--[line: 16, pos: 21] lexeme: Kw_tsel64
+[line: 20, pos: 3]--[line: 20, pos: 8] lexeme: Kw_vyberi
+[line: 20, pos: 12]--[line: 20, pos: 18] lexeme: Kw_vozvrat
+[line: 20, pos: 26]--[line: 20, pos: 30] lexeme: Kw_vechno
+[line: 20, pos: 32]--[line: 20, pos: 34] lexeme: Kw_veshch
+[line: 20, pos: 43]--[line: 20, pos: 49] lexeme: Kw_bolshoe
+[line: 22, pos: 7]--[line: 22, pos: 12] lexeme: Kw_chistaya
+[line: 22, pos: 15]--[line: 22, pos: 20] lexeme: Kw_razbor
+[line: 22, pos: 22]--[line: 22, pos: 25] lexeme: Kw_simv
+[line: 25, pos: 13]--[line: 25, pos: 17] lexeme: Kw_veshch32
+[line: 25, pos: 21]--[line: 25, pos: 23] lexeme: Kw_veshch
+[line: 25, pos: 26]--[line: 25, pos: 31] lexeme: Kw_veshch128
+[line: 25, pos: 34]--[line: 25, pos: 38] lexeme: Kw_veshch64
+[line: 25, pos: 46]--[line: 25, pos: 50] lexeme: Kw_veshch80
+[line: 29, pos: 13]--[line: 29, pos: 21] lexeme: Kw_malenkoe
+[line: 29, pos: 25]--[line: 29, pos: 29] lexeme: Kw_nichto
+[line: 29, pos: 31]--[line: 29, pos: 36] lexeme: Kw_massiv
+[line: 29, pos: 38]--[line: 29, pos: 43] lexeme: Kw_modul
+[line: 30, pos: 4]--[line: 30, pos: 10] lexeme: Kw_funktsiya
+[line: 30, pos: 14]--[line: 30, pos: 15] lexeme: Kw_to
+[line: 30, pos: 17]--[line: 30, pos: 19] lexeme: Kw_tip
+[line: 33, pos: 9]--[line: 33, pos: 20] lexeme: Kw_perechislenie
+[line: 33, pos: 24]--[line: 33, pos: 28] lexeme: Kw_konst
+[line: 33, pos: 33]--[line: 33, pos: 35] lexeme: Kw_log
+[line: 35, pos: 17]--[line: 35, pos: 22] lexeme: Kw_ssylka
+[line: 35, pos: 25]--[line: 35, pos: 30] lexeme: Kw_stroka
+[line: 35, pos: 35]--[line: 35, pos: 43] lexeme: Kw_struktura
+[line: 37, pos: 2]--[line: 37, pos: 13] lexeme: Kw_osvobozhdenie
+[line: 37, pos: 20]--[line: 37, pos: 23] lexeme: Kw_lozh
+[line: 37, pos: 28]--[line: 37, pos: 33] lexeme: Kw_pokuda
+[line: 37, pos: 36]--[line: 37, pos: 40] lexeme: Kw_kompl
+[line: 39, pos: 9]--[line: 39, pos: 13] lexeme: Kw_perem
+[line: 39, pos: 21]--[line: 39, pos: 24] lexeme: Kw_poka
+[line: 39, pos: 30]--[line: 39, pos: 34] lexeme: Kw_log64
+[line: 39, pos: 38]--[line: 39, pos: 45] lexeme: Kw_povtoryaj
+[line: 41, pos: 25]--[line: 41, pos: 28] lexeme: Kw_log8
+[line: 41, pos: 32]--[line: 41, pos: 38] lexeme: Kw_kompl32
+[line: 41, pos: 43]--[line: 41, pos: 50] lexeme: Kw_kompl128
+[line: 42, pos: 17]--[line: 42, pos: 21] lexeme: Kw_log32
+[line: 42, pos: 23]--[line: 42, pos: 29] lexeme: Kw_kompl64
+[line: 42, pos: 34]--[line: 42, pos: 40] lexeme: Kw_kompl80
+[line: 45, pos: 21]--[line: 45, pos: 25] lexeme: Kw_log16
+[line: 49, pos: 1]--[line: 49, pos: 27] lexeme: Id чебурашкац123_sqwertyГенаQL
+[line: 49, pos: 31]--[line: 49, pos: 38] lexeme: Id _019ty__
+[line: 51, pos: 4]--[line: 51, pos: 16] lexeme: Id Intel_Core_i3
+[line: 51, pos: 17]--[line: 51, pos: 17] lexeme: Nothing
+
+Total errors 0

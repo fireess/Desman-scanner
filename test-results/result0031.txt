@@ -1,0 +1,15 @@
+[line: 2, pos: 12]--[line: 2, pos: 21] lexeme: Integer 12345689
+[line: 3, pos: 26]--[line: 3, pos: 56] lexeme: Integer 302231454903657293676544
+[line: 3, pos: 66]--[line: 3, pos: 104] lexeme: Integer 158456325028528675187087900672
+[line: 7, pos: 8]--[line: 7, pos: 56] lexeme: Integer 1329227995784915872903807060280344576
+[line: 8, pos: 19]--[line: 8, pos: 69] lexeme: Integer 340282366920938463463374607431768211455
+[line: 10, pos: 19]--[line: 10, pos: 57] lexeme: Integer 340282366920938463463374607431768211455
+[line: 14, pos: 2]--[line: 14, pos: 39] lexeme: Integer 340282366920938463463374607431768211455
+[line: 16, pos: 17]--[line: 16, pos: 28] lexeme: Integer 78258447173
+[line: 16, pos: 48]--[line: 16, pos: 75] lexeme: Integer 1512566065519334629
+[line: 16, pos: 83]--[line: 16, pos: 105] lexeme: Integer 1512566065519334629
+[line: 20, pos: 9]--[line: 20, pos: 34] lexeme: Integer 68915716840945804207883730142
+[line: 24, pos: 28]--[line: 24, pos: 156] lexeme: Integer 169828762245341476798895237755242916181
+[line: 24, pos: 157]--[line: 24, pos: 157] lexeme: Nothing
+
+Total errors 0

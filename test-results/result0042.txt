@@ -1,0 +1,17 @@
+[line: 3, pos: 8]--[line: 3, pos: 14] lexeme: Kw_funktsiya
+[line: 3, pos: 16]--[line: 3, pos: 31] lexeme: Id привет_лунатикам
+[line: 3, pos: 32]--[line: 3, pos: 32] lexeme: Round_br_opened
+[line: 3, pos: 33]--[line: 3, pos: 33] lexeme: Round_br_closed
+[line: 3, pos: 35]--[line: 3, pos: 35] lexeme: Colon
+[line: 3, pos: 37]--[line: 3, pos: 41] lexeme: Kw_nichto
+[line: 4, pos: 8]--[line: 4, pos: 8] lexeme: Curly_brace_opened
+[line: 5, pos: 11]--[line: 5, pos: 16] lexeme: Id печать
+[line: 5, pos: 17]--[line: 5, pos: 17] lexeme: Round_br_opened
+[line: 5, pos: 18]--[line: 5, pos: 55] lexeme: String Заяц --- волк, заяц --- волк, ...
+
+[line: 5, pos: 56]--[line: 5, pos: 56] lexeme: Round_br_closed
+[line: 5, pos: 57]--[line: 5, pos: 57] lexeme: Semicolon
+[line: 7, pos: 8]--[line: 7, pos: 8] lexeme: Curly_brace_closed
+[line: 7, pos: 9]--[line: 7, pos: 9] lexeme: Nothing
+
+Total errors 0

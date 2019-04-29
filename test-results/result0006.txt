@@ -1,0 +1,12 @@
+[line: 1, pos: 1]--[line: 1, pos: 1] lexeme: Sq_br_opened
+[line: 3, pos: 13]--[line: 3, pos: 14] lexeme: Sq_br_colon_opened
+[line: 4, pos: 5]--[line: 4, pos: 6] lexeme: Tuple_begin
+[line: 7, pos: 17]--[line: 7, pos: 17] lexeme: Round_br_opened
+[line: 13, pos: 21]--[line: 13, pos: 21] lexeme: Colon
+[line: 13, pos: 33]--[line: 13, pos: 34] lexeme: Sq_br_colon_closed
+[line: 15, pos: 25]--[line: 15, pos: 26] lexeme: Tuple_end
+[line: 16, pos: 9]--[line: 16, pos: 10] lexeme: Resolution
+[line: 21, pos: 41]--[line: 21, pos: 42] lexeme: Copy
+[line: 21, pos: 43]--[line: 21, pos: 43] lexeme: Nothing
+
+Total errors 0

@@ -1,0 +1,8 @@
+[line: 1, pos: 8]--[line: 3, pos: 31] lexeme: String
+Bittida en morgon innan solen upprann
+Innan foglarna började sjunga
+Bergatroliet friade till fager ungersven
+Hon hade en falskeliger tunga
+[line: 3, pos: 32]--[line: 3, pos: 32] lexeme: Nothing
+
+Total errors 0

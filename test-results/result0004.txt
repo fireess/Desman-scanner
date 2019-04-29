@@ -1,0 +1,5 @@
+[line: 1, pos: 4]--[line: 1, pos: 4] lexeme: Sq_br_opened
+[line: 3, pos: 13]--[line: 3, pos: 14] lexeme: Sq_br_colon_opened
+[line: 3, pos: 15]--[line: 3, pos: 15] lexeme: Nothing
+
+Total errors 0
