@@ -65,7 +65,6 @@ namespace desman_scanner{
         Maybe_component,             Component_or,
         Maybe_component_or,          Comma,
 		Kw_anl,
-		Kw_anl,
 Kw_arrray,
 Kw_big,
 Kw_c,
@@ -128,7 +127,7 @@ Kw_z16,
 Kw_z32,
 Kw_z64,
 Kw_z8,
-Kw_ Iam
+Kw_Iam
 		
     };
 
